@@ -10,7 +10,7 @@ const createWindow = () => {
     icon: path.join(__dirname, 'media', 'icons', 'icon.ico'),
   });
 
-  win.loadFile('index.html');
+  win.loadFile('./views/index.html');
 };
 
 app.whenReady().then(() => {
