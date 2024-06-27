@@ -1,3 +1,0 @@
-Per avviare l'app:
-
-john@john-ThinkPad-E485:~/Progetti/GitHub/librarian/librarian$ npm start
